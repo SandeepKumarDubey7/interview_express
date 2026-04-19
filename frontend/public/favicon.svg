@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#FFFFFF"/>
+  
+  <!-- Simplified "IE" letters -->
+  <text x="2" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="900" fill="#000000">IE</text>
+  
+  <!-- Orange arrow -->
+  <polygon points="22,10 28,16 22,22 22,19 20,19 20,13 22,13" fill="#FF6347"/>
+</svg>

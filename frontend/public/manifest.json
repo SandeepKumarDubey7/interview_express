@@ -1,0 +1,48 @@
+{
+  "name": "Interview Express",
+  "short_name": "Interview Express",
+  "description": "Your Complete Interview Preparation Platform - Master DSA, Practice Tests, Build Resumes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6347",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["education", "productivity", "business"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "DSA Practice",
+      "short_name": "DSA",
+      "description": "Practice Data Structures and Algorithms",
+      "url": "/practice/dsa",
+      "icons": []
+    },
+    {
+      "name": "Resume Builder",
+      "short_name": "Resume",
+      "description": "Build ATS-friendly resumes",
+      "url": "/resume-builder",
+      "icons": []
+    },
+    {
+      "name": "Mock Interview",
+      "short_name": "Interview",
+      "description": "Practice mock interviews",
+      "url": "/practice/interview",
+      "icons": []
+    }
+  ]
+}
